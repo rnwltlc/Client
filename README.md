@@ -11,4 +11,10 @@
 - SD:/03/001.mp3
 
 # Document
-(Later)
+- Button 1 to 4 is to play audio. (Folder SD:/01)
+- Button 5 to 7 is to play advertisement while there is playing audio. (Folder SD:/ADVERT)
+- Button 8 to play random audio. (Folder SD:/01)
+- Button 9 to play or pause audio.
+- Button 0 to stop advertisement.
+- Button * and # to adjust the volume of the player.
+- (To be continue...) 
